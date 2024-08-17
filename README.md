@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi! My name is Laura Souza de Carvalho. I am currently studying the second semester of Software engineering at FIAP. Currently, I am learning about databases.
+Hi! My name is Laura Souza de Carvalho. I am currently studying the second semester of Software engineering at FIAP. To date, I am learning about databases.
 
 
-## 🌐 Socials:
+## 🌐 Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laurasdc) 
 
 # 💻 Tech Stack:

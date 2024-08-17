@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Me chamo Laura Souza e atualmente estou estudando banco de dados.
+Hi! My name is Laura Souza de Carvalho. I am currently studying the second semester of Software engineering at FIAP. Currently, I am learning about databases.
 
 
 ## 🌐 Socials:

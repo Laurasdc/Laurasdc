@@ -12,6 +12,6 @@ Hi! My name is Laura Souza de Carvalho. I am currently studying the second semes
 ![](https://github-readme-streak-stats.herokuapp.com/?user=laurasdc&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laurasdc&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

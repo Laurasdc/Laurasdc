@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Laura Souza de Carvalho, and I’m currently in my second semester of Software Engineering at FIAP. I am interning as a Systems Developer at the Secretaria do Verde e Meio Ambiente - SVMA. So far, I am studying PHP and databases.
+Hi, I’m Laura Souza de Carvalho — a passionate Software Engineering student (3rd semester) and intern focused on systems development and real-world coding experience.
 
 
 ## 🌐 Linkedin:

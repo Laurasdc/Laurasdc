@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Laura Souza de Carvalho — a passionate Software Engineering student (3rd semester) and intern focused on systems development and real-world coding experience.
+Hi, I’m Laura Souza de Carvalho — a passionate Software Engineering student (4rd semester) and intern focused on systems development and real-world coding experience.
 
 
 ## 🌐 Linkedin:

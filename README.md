@@ -1,15 +1,29 @@
-# 💫 About Me:
-Hi, I’m Laura Souza de Carvalho — a passionate Software Engineering student (4rd semester) and intern focused on systems development and real-world coding experience.
+# Hi, I'm Laura! 👋
 
+Software Engineering student at FIAP, currently in my 6th semester, with experience in software development and IT operations.
 
-## 🌐 Linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laurasdc) 
+I'm building a career in cybersecurity, with a particular interest in offensive security and Red Team operations.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=laurasdc&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=laurasdc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laurasdc&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 💻 About me
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- 🎓 Pursuing a degree in Software Engineering — expected graduation in 2027.
+- 💼 Cloud & ITO Intern at DXC Technology, working with infrastructure and batch job monitoring.
+- 🛠️ Previous experience developing internal APIs, working with databases, and maintaining legacy systems using PHP, Laravel, JavaScript, and MySQL.
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900).
+- 🔐 Currently studying networking, Linux, Windows, and cybersecurity through hands-on labs on TryHackMe.
 
+## 🛠️ Technologies & tools
+
+**Development:** PHP · Laravel · JavaScript · C# · .NET · Python  
+**Databases:** MySQL · SQL  
+**Tools & platforms:** Git · GitHub · Azure · Linux · Windows
+
+## 🌱 Currently learning
+
+- Networking fundamentals and traffic analysis with Wireshark.
+- Linux and Windows administration.
+- Security fundamentals and offensive security techniques in authorized lab environments.
+
+## 🤝 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurasdc)
